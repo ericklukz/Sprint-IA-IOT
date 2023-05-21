@@ -3,6 +3,7 @@ Nossa ideia é de um assistente virtual de compras, chamado AIME (Artificial int
 
 # Sobre as Entregas
 Nossa entrega inicial é um Speech to Text e um Text to Speech ao mesmo tempo, onde o usuário pode fazer a query falando ou digitando e receber a resposta em texto ou em áudio. Isso aumenta a acessibilidade do nosso projeto atendendo mais tipos de clientes e suas exigências. Este código vai fazer a requisição da query usando um POST e para a resposta um GET no nosso código em back-end de Java, que como foi dito anteriormente vai ser o único que vai ter acesso ao banco de dados.
+
 Nosso código: [Código](challenge.py)
 
 # Tecnologias do nosso projeto
