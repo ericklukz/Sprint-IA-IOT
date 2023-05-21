@@ -18,5 +18,4 @@ Azure
 
 # Video
 Pensando na diminuição de tempo, fizemos esse video no youtube para explicar e demonstrar o código apresentado anteriormente.
-
-[Link](https://youtu.be/7ddVZSLZ7l8)
+Video: [Link](https://youtu.be/7ddVZSLZ7l8)
