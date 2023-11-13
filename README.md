@@ -21,3 +21,10 @@ Azure
 # Video
 Pensando na diminuição de tempo, fizemos esse video no youtube para explicar e demonstrar o código apresentado anteriormente.
 Video: [Link](https://youtu.be/7ddVZSLZ7l8)
+
+#Como configurar o ambiente
+Usamos as seguintes bibliotecas:
+
+````
+a
+````
