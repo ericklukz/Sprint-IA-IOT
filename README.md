@@ -20,11 +20,22 @@ Azure
 
 # Video
 Pensando na diminuição de tempo, fizemos esse video no youtube para explicar e demonstrar o código apresentado anteriormente.
-Video: [Link](https://youtu.be/7ddVZSLZ7l8)
+Video: [Link](https://youtu.be/sFFGD-n7S0Y)
 
-#Como configurar o ambiente
+# Como configurar o ambiente
 Usamos as seguintes bibliotecas:
 
 ````
-a
+pip install bardapi
+pip install flask
+pip install oracledb
+pip install gtts
 ````
+
+# Variaveis
+````
+"__Secure-1PSID": "dAgxJZMwwbos7n9VQJkLApzRqGNgBSHQIDux6XIMkMHfnZADJ6H5b-9H_LBRBFa0y935sQ."
+"__Secure-1PSIDTS": "sidts-CjIBNiGH7lzZB857utbk9gnMp-DbvcXwT84rzeySm-Puuz-JsOmKt-yHGjD9YH1vLMqW8hAA"
+````
+
+Estas variaveis podem ser encontradas ao logar no Google Bard, acessar o Inspecionar Elemento (F12), ir na aba APPLICATION e procurar por Cookies.
